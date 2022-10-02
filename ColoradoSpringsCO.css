@@ -1,0 +1,21 @@
+body {
+    background-color: #e6e6e6;
+    }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #015c80;
+    font-display: table;
+    widows: 50%;
+}
+
+nav li {
+    display: table-cell;
+}
+
+li a {
+    display: ;
+}
